@@ -1,0 +1,13 @@
+local OctenSettings = {
+    SilentAim = {
+        Enabled = false,
+        Keybind = Enum.KeyCode.X,
+        Fov = false,
+        FOVColor = Color3.new(255, 255, 255),
+        AutoPred = false,
+        WallCheck = false,
+        KnockedCheck = false,
+        Hitboxes = "Head, Neck, UpperTorso, HumanoidRootPart, LowerTorso, RightArm, LeftArm, RightLeg, LeftLeg, Penis",
+        RandomHitpart = false,
+    }
+}
